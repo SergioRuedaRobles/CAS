@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f9b2166.chunk.css",
+    "main.js": "/static/js/main.81b7c9da.chunk.js",
+    "main.js.map": "/static/js/main.81b7c9da.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5eb7f100.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5eb7f100.js.map",
+    "static/css/2.8cebfa1f.chunk.css": "/static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.84fb7489.chunk.js": "/static/js/2.84fb7489.chunk.js",
+    "static/js/2.84fb7489.chunk.js.map": "/static/js/2.84fb7489.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8cebfa1f.chunk.css.map": "/static/css/2.8cebfa1f.chunk.css.map",
+    "static/css/main.2f9b2166.chunk.css.map": "/static/css/main.2f9b2166.chunk.css.map",
+    "static/js/2.84fb7489.chunk.js.LICENSE.txt": "/static/js/2.84fb7489.chunk.js.LICENSE.txt",
+    "static/media/cliente.87baf9f5.png": "/static/media/cliente.87baf9f5.png",
+    "static/media/cuidador.bc131f9c.png": "/static/media/cuidador.bc131f9c.png",
+    "static/media/esfigmomanometro-de-bolsillo.23700503.jpg": "/static/media/esfigmomanometro-de-bolsillo.23700503.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb7f100.js",
+    "static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.84fb7489.chunk.js",
+    "static/css/main.2f9b2166.chunk.css",
+    "static/js/main.81b7c9da.chunk.js"
+  ]
+}
